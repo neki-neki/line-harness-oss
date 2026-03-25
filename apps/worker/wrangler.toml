@@ -12,7 +12,7 @@ WORKER_URL = "https://line-crm-worker.line-crm-api.workers.dev"
 [[d1_databases]]
 binding = "DB"
 database_name = "line-crm"
-database_id = "YOUR_D1_DATABASE_ID"
+database_id = "7ca76183-01dc-4786-bb64-4a9999941a02"
 
 [triggers]
 crons = ["*/5 * * * *"]
